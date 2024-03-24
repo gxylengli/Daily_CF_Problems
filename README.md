@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF665D](https://codeforces.com/problemset/problem/665/D) | If the subset contains more than 3 numbers, something strange happens. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0316/solution/cf665d.md) |
-| 1800 | [CF263D](https://codeforces.com/problemset/problem/263/D) | What are the typical ways of finding cycles in a graph? Which one is appropriate? Prove it! | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0316/solution/cf263d.md) |
+| 1500 | [CF908C](https://codeforces.com/problemset/problem/908/C) | How can you determine the positional relationship between two circles? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0323/solution/cf908c.md) |
+| 2400 | [CF1526E](https://codeforces.com/problemset/problem/1526/E) | The suffix array offers a lot of "inequalities". Check those constraints | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0323/solution/cf1526e.md) |
