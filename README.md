@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF822C](https://codeforces.com/problemset/problem/822/C) | Figure out a way to describe two non-intersecting segments. Minimize the value then. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0406/solution/cf822c.md) |
-| 2200 | [CF946E](https://codeforces.com/problemset/problem/946/E) | Easy greedy problem. Notice that you can use any digit after the first different character. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0406/solution/cf946e.md) |
+| 1700 | [CF1310A](https://codeforces.com/problemset/problem/1310/A) | Greedy approach. Left the expensive one behind. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0418/solution/cf1310a.md) |
+| 2000 | [CF1010D](https://codeforces.com/problemset/problem/1010/D) | You can find the value first, and then try to figure out which leaves change the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0418/solution/cf1010d.md) |
