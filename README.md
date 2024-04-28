@@ -14,6 +14,8 @@
 
 - Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
 
+- Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
+
 ## Statistics
 
 Here are the current statistics of submissions: [Link](https://yawn-sean.github.io/Daily_CF_Problems/#).
@@ -22,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1310A](https://codeforces.com/problemset/problem/1310/A) | Greedy approach. Left the expensive one behind. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0418/solution/cf1310a.md) |
-| 2000 | [CF1010D](https://codeforces.com/problemset/problem/1010/D) | You can find the value first, and then try to figure out which leaves change the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0418/solution/cf1010d.md) |
+| 1600 | [CF573B](https://codeforces.com/problemset/problem/573/B) | Consider each vertical line. How can it be fully destroyed? Only a few ways. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0427/solution/cf573b.md) |
+| 2200 | [CF567E](https://codeforces.com/problemset/problem/567/E) | To what extent should an edge be reduced to be on the shortest path? How can you judge an edge is "definitely included in the shortest path"? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0427/solution/cf567e.md) |
